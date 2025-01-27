@@ -1,0 +1,3 @@
+﻿  CPPINTRO.cpp
+C:\Users\1676449\Desktop\C63DEMO\CPPINTRO\CPPINTRO.cpp(88,19): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+  CPPINTRO.vcxproj -> C:\Users\1676449\Desktop\C63DEMO\x64\Debug\CPPINTRO.exe
