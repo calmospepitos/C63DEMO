@@ -1,0 +1,12 @@
+﻿  raudio.c
+  rcore.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(60,9): warning C4005: 'MAX_PATH' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: 'APIENTRY' : redéfinition de macro
+  rmodels.c
+  rglfw.c
+  rshapes.c
+  rtext.c
+  rtextures.c
+  utils.c
+  Génération de code en cours...
+  raylib.vcxproj -> C:\Users\1676449\Desktop\C63DEMO\build\raylib\bin\x64\Debug\raylib.lib
