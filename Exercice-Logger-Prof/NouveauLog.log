@@ -1,0 +1,3 @@
+Logging file open
+Va écrire dans la console et NouveauLog.log.
+Cannot change trace file name while file trace is active. Operation aborted.
