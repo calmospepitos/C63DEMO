@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\1676449\\Desktop\\C63DEMO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{494FB27E-0A34-4FA3-8A10-1715127887A5}|ExerciceDessin\\ExerciceDessin.vcxproj|C:\\Users\\1676449\\Desktop\\C63DEMO\\ExerciceDessin\\ExerciceDessin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{494FB27E-0A34-4FA3-8A10-1715127887A5}|ExerciceDessin\\ExerciceDessin.vcxproj|solutionrelative:ExerciceDessin\\ExerciceDessin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4201EED8-7404-43AB-A8AA-C025B129C036}|DemoPreprocesseur\\DemoPreprocesseur.vcxproj|C:\\Users\\1676449\\Desktop\\C63DEMO\\DemoPreprocesseur\\DemoPreprocesseur.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4201EED8-7404-43AB-A8AA-C025B129C036}|DemoPreprocesseur\\DemoPreprocesseur.vcxproj|solutionrelative:DemoPreprocesseur\\DemoPreprocesseur.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4201EED8-7404-43AB-A8AA-C025B129C036}|DemoPreprocesseur\\DemoPreprocesseur.vcxproj|C:\\Users\\1676449\\Desktop\\C63DEMO\\DemoPreprocesseur\\Patate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4201EED8-7404-43AB-A8AA-C025B129C036}|DemoPreprocesseur\\DemoPreprocesseur.vcxproj|solutionrelative:DemoPreprocesseur\\Patate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4201EED8-7404-43AB-A8AA-C025B129C036}|DemoPreprocesseur\\DemoPreprocesseur.vcxproj|C:\\Users\\1676449\\Desktop\\C63DEMO\\DemoPreprocesseur\\Nefaitpasca.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4201EED8-7404-43AB-A8AA-C025B129C036}|DemoPreprocesseur\\DemoPreprocesseur.vcxproj|solutionrelative:DemoPreprocesseur\\Nefaitpasca.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nefaitpasca.h",
+              "DocumentMoniker": "C:\\Users\\1676449\\Desktop\\C63DEMO\\DemoPreprocesseur\\Nefaitpasca.h",
+              "RelativeDocumentMoniker": "DemoPreprocesseur\\Nefaitpasca.h",
+              "ToolTip": "C:\\Users\\1676449\\Desktop\\C63DEMO\\DemoPreprocesseur\\Nefaitpasca.h",
+              "RelativeToolTip": "DemoPreprocesseur\\Nefaitpasca.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-10T19:15:04.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Patate.h",
+              "DocumentMoniker": "C:\\Users\\1676449\\Desktop\\C63DEMO\\DemoPreprocesseur\\Patate.h",
+              "RelativeDocumentMoniker": "DemoPreprocesseur\\Patate.h",
+              "ToolTip": "C:\\Users\\1676449\\Desktop\\C63DEMO\\DemoPreprocesseur\\Patate.h",
+              "RelativeToolTip": "DemoPreprocesseur\\Patate.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-10T19:14:52.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ExerciceDessin.cpp",
-              "DocumentMoniker": "C:\\Users\\1676449\\Desktop\\C63DEMO\\ExerciceDessin\\ExerciceDessin.cpp",
-              "RelativeDocumentMoniker": "ExerciceDessin\\ExerciceDessin.cpp",
-              "ToolTip": "C:\\Users\\1676449\\Desktop\\C63DEMO\\ExerciceDessin\\ExerciceDessin.cpp",
-              "RelativeToolTip": "ExerciceDessin\\ExerciceDessin.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Title": "DemoPreprocesseur.cpp",
+              "DocumentMoniker": "C:\\Users\\1676449\\Desktop\\C63DEMO\\DemoPreprocesseur\\DemoPreprocesseur.cpp",
+              "RelativeDocumentMoniker": "DemoPreprocesseur\\DemoPreprocesseur.cpp",
+              "ToolTip": "C:\\Users\\1676449\\Desktop\\C63DEMO\\DemoPreprocesseur\\DemoPreprocesseur.cpp",
+              "RelativeToolTip": "DemoPreprocesseur\\DemoPreprocesseur.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-03T19:25:38.075Z",
+              "WhenOpened": "2025-02-10T19:13:45.563Z",
               "EditorCaption": ""
             }
           ]

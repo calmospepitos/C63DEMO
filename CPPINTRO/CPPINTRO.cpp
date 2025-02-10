@@ -16,6 +16,10 @@
 
 using namespace std;
 
+int calculQuelconque(const int a, const int b) {
+    return a + b;
+}
+
 int main()
 {
     //////////////////
@@ -24,6 +28,14 @@ int main()
     int unEntier = 0;
     __int64 unEntierSur8Octets = 0xFFFFFFFFFF; // Possible d'assigner en notation hexadécimale
     unsigned int unEntierPositif = 0b0001101;  // Possible d'assigner en notation binaire
+
+    cout << "Coucou!" << endl;
+    calculQuelconque(1, 2);
+    calculQuelconque(5, 6);
+
+    while (true) {
+        cout << "Noooon!" << endl;
+    }
 
     //////////////////
     // Points flottants

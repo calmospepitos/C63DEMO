@@ -1,0 +1,1 @@
+cout << "Ne fait jamais ça, c'est juste pour te montrer la nature du copier-coller du pre-processeur" << endl;
