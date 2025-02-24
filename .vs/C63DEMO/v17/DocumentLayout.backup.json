@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\Github\\C63DEMO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{314B9B64-AC40-444C-8AD9-F54FE2024840}|ExerciceFlee\\ExerciceFlee.vcxproj|J:\\Github\\C63DEMO\\ExerciceFlee\\Flee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314B9B64-AC40-444C-8AD9-F54FE2024840}|ExerciceFlee\\ExerciceFlee.vcxproj|solutionrelative:ExerciceFlee\\Flee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314B9B64-AC40-444C-8AD9-F54FE2024840}|ExerciceFlee\\ExerciceFlee.vcxproj|J:\\Github\\C63DEMO\\ExerciceFlee\\main_etu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{314B9B64-AC40-444C-8AD9-F54FE2024840}|ExerciceFlee\\ExerciceFlee.vcxproj|solutionrelative:ExerciceFlee\\main_etu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Flee.cpp",
+              "DocumentMoniker": "J:\\Github\\C63DEMO\\ExerciceFlee\\Flee.cpp",
+              "RelativeDocumentMoniker": "ExerciceFlee\\Flee.cpp",
+              "ToolTip": "J:\\Github\\C63DEMO\\ExerciceFlee\\Flee.cpp",
+              "RelativeToolTip": "ExerciceFlee\\Flee.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-21T18:09:59.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main_etu.cpp",
+              "DocumentMoniker": "J:\\Github\\C63DEMO\\ExerciceFlee\\main_etu.cpp",
+              "RelativeDocumentMoniker": "ExerciceFlee\\main_etu.cpp",
+              "ToolTip": "J:\\Github\\C63DEMO\\ExerciceFlee\\main_etu.cpp",
+              "RelativeToolTip": "ExerciceFlee\\main_etu.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-21T18:09:49.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

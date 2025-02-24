@@ -1,0 +1,8 @@
+﻿  main_etu.cpp
+J:\Github\C63DEMO\DemoSimpleSquare\SimpleSquare.hpp(42,30): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+J:\Github\C63DEMO\DemoSimpleSquare\SimpleSquare.hpp(42,24): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+  J:\Github\C63DEMO\build\raylib\bin\x64\Debug\raylib.idb
+  J:\Github\C63DEMO\build\raylib\bin\x64\Debug\raylib.pdb
+  J:\Github\C63DEMO\build\raylib\bin\x64\Debug\raylib.lib
+          3 fichier(s) copié(s).
+  DemoSimpleSquare.vcxproj -> J:\Github\C63DEMO\x64\Debug\DemoSimpleSquare.exe
