@@ -1,6 +1,12 @@
-﻿  ExerciceDessin.cpp
-  J:\Github\C63DEMO\build\raylib\bin\x64\Debug\raylib.idb
-  J:\Github\C63DEMO\build\raylib\bin\x64\Debug\raylib.pdb
-          2 fichier(s) copié(s).
-  LINK : J:\Github\C63DEMO\x64\Debug\ExerciceDessin.exe introuvable ou non généré par la dernière édition de liens incrémentielle ; édition de liens complète en cours
-LINK : fatal error LNK1104: impossible d'ouvrir le fichier 'raylib.lib'
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ExerciceDessin.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\Alexia\Documents\Github\C63DEMO\ExerciceDessin\main.cpp(81,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alexia\Documents\Github\C63DEMO\ExerciceDessin\main.cpp(82,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alexia\Documents\Github\C63DEMO\ExerciceDessin\main.cpp(93,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alexia\Documents\Github\C63DEMO\ExerciceDessin\main.cpp(93,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alexia\Documents\Github\C63DEMO\ExerciceDessin\main.cpp(118,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  C:\Users\Alexia\Documents\Github\C63DEMO\build\raylib\bin\x64\Debug\raylib.idb
+  C:\Users\Alexia\Documents\Github\C63DEMO\build\raylib\bin\x64\Debug\raylib.lib
+  C:\Users\Alexia\Documents\Github\C63DEMO\build\raylib\bin\x64\Debug\raylib.pdb
+          3 file(s) copied.
+  ExerciceDessin.vcxproj -> C:\Users\Alexia\Documents\Github\C63DEMO\x64\Debug\ExercicePacMan.exe

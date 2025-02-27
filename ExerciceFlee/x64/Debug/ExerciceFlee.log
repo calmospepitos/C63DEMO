@@ -1,26 +1,5 @@
-﻿  Flee.cpp
-  main_etu.cpp
-C:\Users\1676449\Downloads\main_etu.cpp(61,40): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
-C:\Users\1676449\Downloads\main_etu.cpp(61,31): warning C4244: 'initialisation' : conversion de 'double' en 'const float', perte possible de données
-C:\Users\1676449\Downloads\main_etu.cpp(64,70): warning C4244: 'argument' : conversion de 'const float' en 'int', perte possible de données
-C:\Users\1676449\Downloads\main_etu.cpp(64,57): warning C4244: 'argument' : conversion de 'const float' en 'int', perte possible de données
-C:\Users\1676449\Downloads\main_etu.cpp(64,44): warning C4244: 'argument' : conversion de 'const float' en 'int', perte possible de données
-C:\Users\1676449\Downloads\main_etu.cpp(64,31): warning C4244: 'argument' : conversion de 'const float' en 'int', perte possible de données
-C:\Users\1676449\Downloads\main_etu.cpp(65,70): warning C4244: 'argument' : conversion de 'const float' en 'int', perte possible de données
-C:\Users\1676449\Downloads\main_etu.cpp(65,57): warning C4244: 'argument' : conversion de 'const float' en 'int', perte possible de données
-C:\Users\1676449\Downloads\main_etu.cpp(65,44): warning C4244: 'argument' : conversion de 'const float' en 'int', perte possible de données
-C:\Users\1676449\Downloads\main_etu.cpp(65,31): warning C4244: 'argument' : conversion de 'const float' en 'int', perte possible de données
-C:\Users\1676449\Downloads\main_etu.cpp(66,70): warning C4244: 'argument' : conversion de 'const float' en 'int', perte possible de données
-C:\Users\1676449\Downloads\main_etu.cpp(66,57): warning C4244: 'argument' : conversion de 'const float' en 'int', perte possible de données
-C:\Users\1676449\Downloads\main_etu.cpp(66,44): warning C4244: 'argument' : conversion de 'const float' en 'int', perte possible de données
-C:\Users\1676449\Downloads\main_etu.cpp(66,31): warning C4244: 'argument' : conversion de 'const float' en 'int', perte possible de données
-C:\Users\1676449\Downloads\main_etu.cpp(67,70): warning C4244: 'argument' : conversion de 'const float' en 'int', perte possible de données
-C:\Users\1676449\Downloads\main_etu.cpp(67,57): warning C4244: 'argument' : conversion de 'const float' en 'int', perte possible de données
-C:\Users\1676449\Downloads\main_etu.cpp(67,44): warning C4244: 'argument' : conversion de 'const float' en 'int', perte possible de données
-C:\Users\1676449\Downloads\main_etu.cpp(67,31): warning C4244: 'argument' : conversion de 'const float' en 'int', perte possible de données
-  Génération de code en cours...
-  J:\Github\C63DEMO\build\raylib\bin\x64\Debug\raylib.idb
-  J:\Github\C63DEMO\build\raylib\bin\x64\Debug\raylib.pdb
-  J:\Github\C63DEMO\build\raylib\bin\x64\Debug\raylib.lib
-          3 fichier(s) copié(s).
-  ExerciceFlee.vcxproj -> J:\Github\C63DEMO\x64\Debug\ExerciceFlee.exe
+﻿  C:\Users\Alexia\Documents\Github\C63DEMO\build\raylib\bin\x64\Debug\raylib.idb
+  C:\Users\Alexia\Documents\Github\C63DEMO\build\raylib\bin\x64\Debug\raylib.lib
+  C:\Users\Alexia\Documents\Github\C63DEMO\build\raylib\bin\x64\Debug\raylib.pdb
+          3 file(s) copied.
+  ExerciceFlee.vcxproj -> C:\Users\Alexia\Documents\Github\C63DEMO\x64\Debug\ExerciceFlee.exe

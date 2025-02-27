@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "J:\\Github\\C63DEMO\\",
+  "WorkspaceRootPath": "C:\\Users\\Alexia\\Documents\\Github\\C63DEMO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{314B9B64-AC40-444C-8AD9-F54FE2024840}|ExerciceFlee\\ExerciceFlee.vcxproj|J:\\Github\\C63DEMO\\ExerciceFlee\\Flee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{314B9B64-AC40-444C-8AD9-F54FE2024840}|ExerciceFlee\\ExerciceFlee.vcxproj|solutionrelative:ExerciceFlee\\Flee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AAE2EE12-C1EE-48FB-B26F-68C3B53308BD}|ExercicePreprocesseur\\ExercicePreprocesseur.vcxproj|C:\\Users\\Alexia\\Documents\\Github\\C63DEMO\\ExercicePreprocesseur\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AAE2EE12-C1EE-48FB-B26F-68C3B53308BD}|ExercicePreprocesseur\\ExercicePreprocesseur.vcxproj|solutionrelative:ExercicePreprocesseur\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{314B9B64-AC40-444C-8AD9-F54FE2024840}|ExerciceFlee\\ExerciceFlee.vcxproj|J:\\Github\\C63DEMO\\ExerciceFlee\\main_etu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{314B9B64-AC40-444C-8AD9-F54FE2024840}|ExerciceFlee\\ExerciceFlee.vcxproj|solutionrelative:ExerciceFlee\\main_etu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AAE2EE12-C1EE-48FB-B26F-68C3B53308BD}|ExercicePreprocesseur\\ExercicePreprocesseur.vcxproj|C:\\Users\\Alexia\\Documents\\Github\\C63DEMO\\ExercicePreprocesseur\\custommacro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AAE2EE12-C1EE-48FB-B26F-68C3B53308BD}|ExercicePreprocesseur\\ExercicePreprocesseur.vcxproj|solutionrelative:ExercicePreprocesseur\\custommacro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Flee.cpp",
-              "DocumentMoniker": "J:\\Github\\C63DEMO\\ExerciceFlee\\Flee.cpp",
-              "RelativeDocumentMoniker": "ExerciceFlee\\Flee.cpp",
-              "ToolTip": "J:\\Github\\C63DEMO\\ExerciceFlee\\Flee.cpp",
-              "RelativeToolTip": "ExerciceFlee\\Flee.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-21T18:09:59.417Z",
+              "DocumentIndex": 1,
+              "Title": "custommacro.h",
+              "DocumentMoniker": "C:\\Users\\Alexia\\Documents\\Github\\C63DEMO\\ExercicePreprocesseur\\custommacro.h",
+              "RelativeDocumentMoniker": "ExercicePreprocesseur\\custommacro.h",
+              "ToolTip": "C:\\Users\\Alexia\\Documents\\Github\\C63DEMO\\ExercicePreprocesseur\\custommacro.h",
+              "RelativeToolTip": "ExercicePreprocesseur\\custommacro.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-27T00:17:15.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "main_etu.cpp",
-              "DocumentMoniker": "J:\\Github\\C63DEMO\\ExerciceFlee\\main_etu.cpp",
-              "RelativeDocumentMoniker": "ExerciceFlee\\main_etu.cpp",
-              "ToolTip": "J:\\Github\\C63DEMO\\ExerciceFlee\\main_etu.cpp",
-              "RelativeToolTip": "ExerciceFlee\\main_etu.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Alexia\\Documents\\Github\\C63DEMO\\ExercicePreprocesseur\\main.cpp",
+              "RelativeDocumentMoniker": "ExercicePreprocesseur\\main.cpp",
+              "ToolTip": "C:\\Users\\Alexia\\Documents\\Github\\C63DEMO\\ExercicePreprocesseur\\main.cpp",
+              "RelativeToolTip": "ExercicePreprocesseur\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-21T18:09:49.53Z",
+              "WhenOpened": "2025-02-27T00:15:53.309Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

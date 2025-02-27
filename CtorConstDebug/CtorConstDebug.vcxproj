@@ -24,6 +24,7 @@
     <ProjectGuid>{29b4c836-7125-41bf-9254-7ac83d41bbd3}</ProjectGuid>
     <RootNamespace>CtorConstDebug</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>DemoPreconstructeur</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -24,7 +24,7 @@
     <ProjectGuid>{f65e7169-cf57-43b8-8d7d-ba0067462f34}</ProjectGuid>
     <RootNamespace>ExerciceLogger</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Exercice-Logger-Prof</ProjectName>
+    <ProjectName>ExerciceLoggerProf</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
