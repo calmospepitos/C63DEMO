@@ -27,6 +27,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Submodules", "Submodules", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExercicePreprocesseur", "ExercicePreprocesseur\ExercicePreprocesseur.vcxproj", "{AAE2EE12-C1EE-48FB-B26F-68C3B53308BD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solutions", "Solutions", "{E7AC42CA-9497-42C8-8ECD-C7DF78CBAF11}"
+	ProjectSection(SolutionItems) = preProject
+		ExerciceFlee\main_correction.cpp = ExerciceFlee\main_correction.cpp
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug.DLL|x64 = Debug.DLL|x64
