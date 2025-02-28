@@ -1,4 +1,29 @@
-﻿  C:\Users\Alexia\Documents\Github\C63DEMO\build\raylib\bin\x64\Debug\raylib.idb
+﻿  main_etu.cpp
+C:\Users\Alexia\Documents\Github\C63DEMO\ExerciceFlee\main_etu.cpp(75,40): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alexia\Documents\Github\C63DEMO\ExerciceFlee\main_etu.cpp(75,31): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Alexia\Documents\Github\C63DEMO\ExerciceFlee\main_etu.cpp(78,70): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Alexia\Documents\Github\C63DEMO\ExerciceFlee\main_etu.cpp(78,57): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Alexia\Documents\Github\C63DEMO\ExerciceFlee\main_etu.cpp(78,44): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Alexia\Documents\Github\C63DEMO\ExerciceFlee\main_etu.cpp(78,31): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Alexia\Documents\Github\C63DEMO\ExerciceFlee\main_etu.cpp(79,70): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Alexia\Documents\Github\C63DEMO\ExerciceFlee\main_etu.cpp(79,57): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Alexia\Documents\Github\C63DEMO\ExerciceFlee\main_etu.cpp(79,44): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Alexia\Documents\Github\C63DEMO\ExerciceFlee\main_etu.cpp(79,31): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Alexia\Documents\Github\C63DEMO\ExerciceFlee\main_etu.cpp(80,70): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Alexia\Documents\Github\C63DEMO\ExerciceFlee\main_etu.cpp(80,57): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Alexia\Documents\Github\C63DEMO\ExerciceFlee\main_etu.cpp(80,44): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Alexia\Documents\Github\C63DEMO\ExerciceFlee\main_etu.cpp(80,31): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Alexia\Documents\Github\C63DEMO\ExerciceFlee\main_etu.cpp(81,70): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Alexia\Documents\Github\C63DEMO\ExerciceFlee\main_etu.cpp(81,57): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Alexia\Documents\Github\C63DEMO\ExerciceFlee\main_etu.cpp(81,44): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Alexia\Documents\Github\C63DEMO\ExerciceFlee\main_etu.cpp(81,31): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Alexia\Documents\Github\C63DEMO\ExerciceFlee\main_etu.cpp(117,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alexia\Documents\Github\C63DEMO\ExerciceFlee\main_etu.cpp(117,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alexia\Documents\Github\C63DEMO\ExerciceFlee\main_etu.cpp(126,82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alexia\Documents\Github\C63DEMO\ExerciceFlee\main_etu.cpp(126,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alexia\Documents\Github\C63DEMO\ExerciceFlee\main_etu.cpp(126,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alexia\Documents\Github\C63DEMO\ExerciceFlee\main_etu.cpp(126,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  C:\Users\Alexia\Documents\Github\C63DEMO\build\raylib\bin\x64\Debug\raylib.idb
   C:\Users\Alexia\Documents\Github\C63DEMO\build\raylib\bin\x64\Debug\raylib.lib
   C:\Users\Alexia\Documents\Github\C63DEMO\build\raylib\bin\x64\Debug\raylib.pdb
           3 file(s) copied.
